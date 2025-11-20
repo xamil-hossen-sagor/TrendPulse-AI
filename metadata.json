@@ -1,0 +1,5 @@
+{
+  "name": "TrendPulse AI",
+  "description": "Real-time keyword intelligence dashboard powered by Gemini. Tracks daily search volumes, breakout terms, and predicts future trends using deep reasoning.",
+  "requestFramePermissions": []
+}
